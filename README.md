@@ -32,5 +32,5 @@ Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais f�
 
 ## 🔗 Links
 
-- [Download do NVDA](https://www.nvaccess.org/download/)
+- [New Wiki](https://leoviana00.github.io/dp-dio-wikipedia-layout-modern/)
 - [Wikipedia](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal)
