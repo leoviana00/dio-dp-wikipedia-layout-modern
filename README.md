@@ -1,4 +1,4 @@
-<h1 align="center">NVO WIKIPÉDIA</h1>
+<h1 align="center">Novo Wikipédia</h1>
 
 <p align="center">
   <img alt="Html" src="https://img.shields.io/static/v1?label=Web&message=HTML&color=8257E5&labelColor=000000"  />
